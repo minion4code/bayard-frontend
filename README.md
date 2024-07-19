@@ -64,6 +64,10 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch: `git push origin feature/your-feature`
 5. Submit a pull request
 
+## **ENV**
+
+BAYARD_API_KEY=fea540a0-570d-4345-ada5-58e04149bc8e
+
 ## **License**
 
 This project is licensed under:
