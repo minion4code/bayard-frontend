@@ -77,7 +77,9 @@ This project is licensed under:
 ## **Contact**
 
 For any questions or inquiries, please contact the Bayard Lab team at [contact@bayardlab.org](mailto:contact@bayardlab.org).
-Please donate to contribute to this project.
-USDT/TRC: TKkMqRFpoR64WveWaKQahQQ9EeAFz2AgMn
-USDT/BEP: 0x1484f7e7e3a240c660d427a3ac253a8d29cbc8bf
+
+## **Donate**
+
+- USDT/TRC: TKkMqRFpoR64WveWaKQahQQ9EeAFz2AgMn
+- USDT/BEP: 0x1484f7e7e3a240c660d427a3ac253a8d29cbc8bf
 
